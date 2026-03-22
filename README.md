@@ -1,1 +1,1 @@
-Completed projects in School 21, Sberbank.
+Completed projects in School 21 Sberbank
