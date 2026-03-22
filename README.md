@@ -17,7 +17,7 @@
 
 | Проект | Тема | Статус |
 |---|---|---|
-| [`ds_bootcamp`](./ds_bootcamp/) | Data Science Bootcamp: от UNIX и Python до ML и ИИ-агентов | ✅ Завершён |
+| [`ds_bootcamp`](./ds_bootcamp/README.md) | Data Science Bootcamp: от UNIX и Python до ML и ИИ-агентов | ✅ Завершён |
 
 ## Структура репозитория
 
