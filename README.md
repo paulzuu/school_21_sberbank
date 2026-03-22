@@ -1,4 +1,4 @@
-# Результаты DS Bootcamp в Школе 21
+# DS Bootcamp в Школе 21
 
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-1.3.5-blue)
@@ -232,6 +232,6 @@ ds_bootcamp/
     ```bash
     python -m venv venv
     source venv/bin/activate  # для macOS/Linux
-    # venv\Scripts\activate  # для Windows
+    venv\Scripts\activate  # для Windows
     pip install -r requirements.txt
     ```
